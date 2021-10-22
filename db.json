@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hamburger",
+      "price": "50"
+    },
+    {
+      "id": 2,
+      "name": "Ice cream",
+      "price": "20"
+    },
+    {
+      "id": 3,
+      "name": "cadbury",
+      "price": "50"
+    },
+    {
+      "id": "5",
+      "name": "kitkat",
+      "price": "249"
+    },
+    {
+      "id": "4",
+      "name": "cake",
+      "price": "500"
+    }
+  ]
+}
